@@ -1,0 +1,24 @@
+{
+  "name": "backstopjs-demo",
+  "version": "1.0.0",
+  "description": "一个BackstopJS测试demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "node script/test.js",
+    "reference": "node script/reference;"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laden666666/BackstopJSDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laden666666/BackstopJSDemo/issues"
+  },
+  "homepage": "https://github.com/laden666666/BackstopJSDemo#readme",
+  "devDependencies": {
+    "backstopjs": "^2.3.7",
+    "express": "^4.14.1"
+  }
+}
